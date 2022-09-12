@@ -14,13 +14,13 @@ const Home = () => {
     <div>
       {/* <Carousel /> */}
       <Banner></Banner>
-      <Info></Info>
+      {/* <Info></Info>
       <Services></Services>
       <FounderInfo></FounderInfo>
       <BusinessSummary />
       <Reviews></Reviews>
       <Contact></Contact>
-      <Footer></Footer>
+      <Footer></Footer> */}
     </div>
   );
 };
